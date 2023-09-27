@@ -38,9 +38,7 @@ Welcome to "My Notes," the ultimate app for organizing and managing your notes w
 
 Contributions to "My Notes" are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 Start organizing your life with "My Notes" today! Download the app and take control of your notes.
 
